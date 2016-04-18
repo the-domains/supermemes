@@ -1,0 +1,28 @@
+name: SuperMemes
+favicon: null
+layout_spectrum: 0.48624732135795057
+typography_spectrum: 0.07721338118426502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.22058075806125998
+  lightness: 0.8225475817453116
+  saturation: 0.4619821768719703
+  rhythmicContrast: 0.6373107358813286
+purpose: []
